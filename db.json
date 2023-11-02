@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "name": "React",
+      "desc": "learn jsx",
+      "priority": "1",
+      "id": 1
+    },
+    {
+      "name": "Angular",
+      "desc": "learn routing",
+      "priority": "2",
+      "id": 2
+    },
+    {
+      "name": "HTML",
+      "desc": "desc",
+      "priority": "3",
+      "id": 3
+    }
+  ]
+}
