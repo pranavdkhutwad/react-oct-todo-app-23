@@ -9,3 +9,20 @@ export const getCategoriesByPriority = (list) => {
     lowPriority,
   };
 };
+
+export const getBorderClass = (priority) => {
+  switch (Number(priority)) {
+    case 1: {
+      return "border-danger";
+    }
+    case 2: {
+      return "border-warning";
+    }
+    case 3: {
+      return "border-info";
+    }
+    default: {
+      return "";
+    }
+  }
+};

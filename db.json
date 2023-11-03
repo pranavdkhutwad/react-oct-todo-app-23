@@ -2,21 +2,15 @@
   "todos": [
     {
       "name": "React",
-      "desc": "learn jsx",
+      "desc": "learn server communication",
       "priority": "1",
       "id": 1
     },
     {
-      "name": "Angular",
-      "desc": "learn routing",
-      "priority": "2",
-      "id": 2
-    },
-    {
-      "name": "HTML",
-      "desc": "desc",
+      "name": "CSS",
+      "desc": "learn box model",
       "priority": "3",
-      "id": 3
+      "id": 2
     }
   ]
 }
